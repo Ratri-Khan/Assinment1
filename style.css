@@ -13,12 +13,12 @@ body{font-family: 'Poppins', sans-serif;
         margin: auto;
         text-align: right;}
 .banner div {width: 400px;
-float: right;
-margin-top: 350px;}
+  float: right;
+  margin-top: 350px;}
 .banner h1{font-size:40px;
-font-weight: 800px;}
+  font-weight: 800px;}
 .banner p{margin:25px 0px;
-line-height: 2;}
+  line-height: 2;}
 .btn-design {
     text-decoration: none;
     border: 0px solid;
@@ -98,22 +98,18 @@ text-align: center;}
     text-align: center;
     padding: 20px 0px;
 }
-
 .contactForm {
     padding: 0px 0px 70px 0px;
     margin-bottom: 20px;
     text-align: center;
     margin-left: 38%;
 }
-
 #contactId {
     width: 300px;
     border: 1px solid;
     border-color: rgb(153, 51, 0);
     box-shadow: 6px 6px 20px #993300;
 }
-
-
 .submitButton {
     border: 1px solid;
     padding: 10px;
@@ -137,8 +133,9 @@ footer{background-color:#000;}
 .future p{line-height:2;}
 .subscribe{width: 400px;
     color: #fff;;
-padding: 100px 0px 100px 260px;}
-.subscribe input{padding:10px 160px 10px 40px;
+    padding: 100px 0px 100px 260px;}
+.subscribe input{
+    padding:10px 160px 10px 40px;
     border-radius: 6px;
     background-color:#000;
     border-color: #fff;
