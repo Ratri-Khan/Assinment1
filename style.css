@@ -4,7 +4,7 @@ body{font-family: 'Poppins', sans-serif;
 .header{background-image:url('images/banner/banner1.png');
    height: 900px;
    background-repeat: no-repeat;
-   width: 1950px;
+   max-width: 100%;
    background-size: cover;align-items: right;
    background-color: rgb(255, 238, 230);
 }
